@@ -85,7 +85,7 @@
     En todo el área metropolitana de Monterrey.
     </p>
     <p><b>¡Celebra sin preocupaciones, nosotros nos encargamos!</b></p>
-    <h5 onclick="location.href='inicio.php'">Ver más</h5>
+    <h5 onclick="location.href='inicio.html'">Ver más</h5>
 
     <script>
         // Configuración de particles.js
